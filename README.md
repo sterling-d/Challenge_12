@@ -39,6 +39,11 @@ To test this repo, simply clone the repository and create a new_folder to save y
    jupyter lab 
 ```
 
+Upon launching this repo, you will be able to view the classification report and precision score for our model. 
+
+<img width="1440" alt="Screen Shot 2022-10-16 at 7 49 37 PM" src="https://user-images.githubusercontent.com/105071493/196078965-6746afd4-992a-4e4c-b464-a9edcceac788.png">
+
+
 ---
 
 ## Contributors
